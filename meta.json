@@ -1,0 +1,23 @@
+{
+  "repo": "riverside-remote-podcast-studio",
+  "product": "Riverside Remote Podcast Studio",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "riverside-remote-podcast-studio",
+    "riverside-remote",
+    "riverside-remote-studio",
+    "remote-desktop",
+    "how-to-install-riverside-remote",
+    "how-to-setup-riverside-remote",
+    "desktop-package",
+    "windows-11",
+    "windows-remote"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Riverside Remote Podcast Studio"
+}
